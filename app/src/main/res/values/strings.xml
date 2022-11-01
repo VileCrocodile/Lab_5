@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">I Love Android</string>
+    <string name="l2_switch">on/off</string>
+    <string name="button">Press Me</string>
+    <string name="checkbox">Check this out!</string>
+    <string name="toast_message">Label has been updated</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello"
+        android:textSize="30sp"/>
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable-fr/flag.png"/>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/button" />
+
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/checkbox" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:hint="@string/hello"/>
+
+    <Switch
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:inputType="none"
+        android:text="@string/l2_switch" />
+
+
+</LinearLayout>
+
